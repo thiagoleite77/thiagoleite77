@@ -4,7 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoleiteprogramadorcnccadcam/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoleite77&hide_progress=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoleite77&layout=compact)
 
 ## Tecnologias
 
