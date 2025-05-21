@@ -1,6 +1,6 @@
 
 
-### Olá! Eu sou Thiago Leite 👋🏼
+### Olá! Eu sou Thiago Leite, seja bem vindo ao meu perfil! 👋🏼
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoleiteprogramadorcnccadcam/)
 
